@@ -20,9 +20,13 @@ github自己提供一些特殊语法，比如“=====”表示分割线，考虑
 先将图片保存到至github项目中，如将```1.jpg```存到```uedtianji/writing_blogs_on_github/images/1.jpg```中，在github页面中点击```raw```  
 ![](https://raw.githubusercontent.com/uedtianji/writing_on_readme/master/images/1.jpg)  
 再打开的链接就是此图片的访问地址。  
-```https://raw.githubusercontent.com/uedtianji/writing_on_readme/master/images/1.jpg```  
+```
+https://raw.githubusercontent.com/uedtianji/writing_on_readme/master/images/1.jpg
+```  
 根据地址我们可以推断出所有其他图片的地址应该是  
-```https://raw.githubusercontent.com/用户名/项目名/分支名/目录名/文件名```  
+```
+https://raw.githubusercontent.com/用户名/项目名/分支名/目录名/文件名
+```  
 用此格式不仅可以获取到图片还可以获取到文件，如其他md、html、js文件等。  
 
 
